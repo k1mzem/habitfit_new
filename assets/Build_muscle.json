@@ -1,0 +1,92 @@
+{
+  "build_muscle_bmi_underweight": {
+    "type": "build_muscle",
+    "bmiRange": "underweight",
+    "weeks": {
+      "1": {
+        "weekNumber": 1,
+        "physicalGoal": "Bodyweight strength workout 30 min",
+        "mealGoal": "≥ 2500 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "2": {
+        "weekNumber": 2,
+        "physicalGoal": "Upper body + legs 35 min",
+        "mealGoal": "≥ 2600 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "3": {
+        "weekNumber": 3,
+        "physicalGoal": "Full-body circuit 40 min",
+        "mealGoal": "≥ 2700 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "4": {
+        "weekNumber": 4,
+        "physicalGoal": "Endurance + strength 45 min",
+        "mealGoal": "≥ 2800 kcal",
+        "sleepGoal": "7–8 hrs"
+      }
+    }
+  },
+  "build_muscle_bmi_normal": {
+    "type": "build_muscle",
+    "bmiRange": "normal",
+    "weeks": {
+      "1": {
+        "weekNumber": 1,
+        "physicalGoal": "Bodyweight & push-pull workout 35 min",
+        "mealGoal": "≥ 2400 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "2": {
+        "weekNumber": 2,
+        "physicalGoal": "Upper-lower split 40 min",
+        "mealGoal": "≥ 2500 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "3": {
+        "weekNumber": 3,
+        "physicalGoal": "Progressive overload sets 45 min",
+        "mealGoal": "≥ 2600 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "4": {
+        "weekNumber": 4,
+        "physicalGoal": "Functional compound movements 50 min",
+        "mealGoal": "≥ 2700 kcal",
+        "sleepGoal": "7–8 hrs"
+      }
+    }
+  },
+  "build_muscle_bmi_overweight": {
+    "type": "build_muscle",
+    "bmiRange": "overweight",
+    "weeks": {
+      "1": {
+        "weekNumber": 1,
+        "physicalGoal": "Low-impact strength 30 min",
+        "mealGoal": "≥ 2200 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "2": {
+        "weekNumber": 2,
+        "physicalGoal": "Push-pull-lower rotation 35 min",
+        "mealGoal": "≥ 2300 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "3": {
+        "weekNumber": 3,
+        "physicalGoal": "Full-body volume sets 40 min",
+        "mealGoal": "≥ 2400 kcal",
+        "sleepGoal": "7–8 hrs"
+      },
+      "4": {
+        "weekNumber": 4,
+        "physicalGoal": "Strength circuit & control 45 min",
+        "mealGoal": "≥ 2500 kcal",
+        "sleepGoal": "7–8 hrs"
+      }
+    }
+  }
+}

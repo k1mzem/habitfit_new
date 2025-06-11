@@ -1,0 +1,114 @@
+{
+  "lose_weight_bmi_low": {
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "physicalGoal": "Walk 15 min (light)",
+        "mealGoal": "\u2264 1800 kcal",
+        "sleepGoal": "8\u20139 hrs"
+      },
+      {
+        "weekNumber": 2,
+        "physicalGoal": "Walk 20 min + light core",
+        "mealGoal": "\u2264 1750 kcal",
+        "sleepGoal": "8\u20139 hrs"
+      },
+      {
+        "weekNumber": 3,
+        "physicalGoal": "Walk 25 min + full body stretch",
+        "mealGoal": "\u2264 1700 kcal",
+        "sleepGoal": "7.5\u20139 hrs"
+      },
+      {
+        "weekNumber": 4,
+        "physicalGoal": "Walk 30 min + beginner yoga",
+        "mealGoal": "\u2264 1650 kcal",
+        "sleepGoal": "7.5\u20139 hrs"
+      }
+    ]
+  },
+  "lose_weight_bmi_normal": {
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "physicalGoal": "Jog 20 min or walk 30 min",
+        "mealGoal": "\u2264 1500 kcal",
+        "sleepGoal": "7\u20139 hrs"
+      },
+      {
+        "weekNumber": 2,
+        "physicalGoal": "Jog 25 min + bodyweight circuit",
+        "mealGoal": "\u2264 1450 kcal",
+        "sleepGoal": "7\u20139 hrs"
+      },
+      {
+        "weekNumber": 3,
+        "physicalGoal": "Jog 30 min + stairs 5x",
+        "mealGoal": "\u2264 1400 kcal",
+        "sleepGoal": "7\u20138.5 hrs"
+      },
+      {
+        "weekNumber": 4,
+        "physicalGoal": "Jog 30 min + core HIIT",
+        "mealGoal": "\u2264 1350 kcal",
+        "sleepGoal": "7\u20138 hrs"
+      }
+    ]
+  },
+  "lose_weight_bmi_overweight": {
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "physicalGoal": "Walk 40 min + squats 3x10",
+        "mealGoal": "\u2264 1400 kcal",
+        "sleepGoal": "7\u20139 hrs"
+      },
+      {
+        "weekNumber": 2,
+        "physicalGoal": "Jog/Walk 30 min + pushups 3x10",
+        "mealGoal": "\u2264 1350 kcal",
+        "sleepGoal": "7\u20138.5 hrs"
+      },
+      {
+        "weekNumber": 3,
+        "physicalGoal": "Jog 35 min + stair sprints",
+        "mealGoal": "\u2264 1300 kcal",
+        "sleepGoal": "7\u20138 hrs"
+      },
+      {
+        "weekNumber": 4,
+        "physicalGoal": "Jog 40 min + full body HIIT",
+        "mealGoal": "\u2264 1250 kcal",
+        "sleepGoal": "7 hrs"
+      }
+    ]
+  },
+  "lose_weight_bmi_obese": {
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "physicalGoal": "Walk 45 min + wall sits",
+        "mealGoal": "\u2264 1300 kcal",
+        "sleepGoal": "8\u20139 hrs"
+      },
+      {
+        "weekNumber": 2,
+        "physicalGoal": "Walk 50 min + light stairs",
+        "mealGoal": "\u2264 1250 kcal",
+        "sleepGoal": "8\u20139 hrs"
+      },
+      {
+        "weekNumber": 3,
+        "physicalGoal": "Walk 50 min + resistance bands",
+        "mealGoal": "\u2264 1200 kcal",
+        "sleepGoal": "7.5\u20138.5 hrs"
+      },
+      {
+        "weekNumber": 4,
+        "physicalGoal": "Walk 60 min + HIIT low impact",
+        "mealGoal": "\u2264 1150 kcal",
+        "sleepGoal": "7.5\u20138 hrs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "fix_sleep_generic": {
+    "type": "fix_sleep",
+    "title": "Fix Your Sleep",
+    "description": "A 4-week gentle plan to reset your sleep schedule and improve rest quality.",
+    "weeks": {
+      "1": {
+        "weekNumber": 1,
+        "physicalGoal": "Stretch 10 min",
+        "mealGoal": "≤ 1200 kcal light dinner",
+        "sleepGoal": "8.5–9 hrs"
+      },
+      "2": {
+        "weekNumber": 2,
+        "physicalGoal": "Light walk + stretch 15 min",
+        "mealGoal": "≤ 1300 kcal light dinner",
+        "sleepGoal": "8.5–9 hrs"
+      },
+      "3": {
+        "weekNumber": 3,
+        "physicalGoal": "Breathing + stretch 15 min",
+        "mealGoal": "≤ 1300 kcal light dinner",
+        "sleepGoal": "9 hrs"
+      },
+      "4": {
+        "weekNumber": 4,
+        "physicalGoal": "Wind-down yoga 20 min",
+        "mealGoal": "≤ 1200 kcal light dinner",
+        "sleepGoal": "9 hrs"
+      }
+    }
+  }
+}

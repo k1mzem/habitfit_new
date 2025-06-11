@@ -1,0 +1,189 @@
+{
+  "programId": "lose_weight",
+  "title": "Lose Weight - Calorie Deficit",
+  "description": "30-day program focused on calorie deficit through activity, eating, and sleep.",
+  "type": "calorie_deficit",
+  "defaultDailyCalorieTarget": 1500,
+  "days": {
+    "1": {
+      "dayNumber": 1,
+      "physicalGoal": "Jog 20 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "2": {
+      "dayNumber": 2,
+      "physicalGoal": "Home workout 20 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "3": {
+      "dayNumber": 3,
+      "physicalGoal": "Stretch & walk 15 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "4": {
+      "dayNumber": 4,
+      "physicalGoal": "Jog 3 km",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "5": {
+      "dayNumber": 5,
+      "physicalGoal": "Walk 60 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "6": {
+      "dayNumber": 6,
+      "physicalGoal": "Yoga recovery",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "7": {
+      "dayNumber": 7,
+      "physicalGoal": "Jog + pushups",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "8": {
+      "dayNumber": 8,
+      "physicalGoal": "Hill walk 15 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "9": {
+      "dayNumber": 9,
+      "physicalGoal": "Workout 20 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "10": {
+      "dayNumber": 10,
+      "physicalGoal": "Walk 30 min (burn ~150 kcal)",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "11": {
+      "dayNumber": 11,
+      "physicalGoal": "Jog 20 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "12": {
+      "dayNumber": 12,
+      "physicalGoal": "Home workout 20 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "13": {
+      "dayNumber": 13,
+      "physicalGoal": "Stretch & walk 15 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "14": {
+      "dayNumber": 14,
+      "physicalGoal": "Jog 3 km",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "15": {
+      "dayNumber": 15,
+      "physicalGoal": "Walk 60 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "16": {
+      "dayNumber": 16,
+      "physicalGoal": "Yoga recovery",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "17": {
+      "dayNumber": 17,
+      "physicalGoal": "Jog + pushups",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "18": {
+      "dayNumber": 18,
+      "physicalGoal": "Hill walk 15 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "19": {
+      "dayNumber": 19,
+      "physicalGoal": "Workout 20 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "20": {
+      "dayNumber": 20,
+      "physicalGoal": "Walk 30 min (burn ~150 kcal)",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "21": {
+      "dayNumber": 21,
+      "physicalGoal": "Jog 20 min",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "22": {
+      "dayNumber": 22,
+      "physicalGoal": "Home workout 20 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "23": {
+      "dayNumber": 23,
+      "physicalGoal": "Stretch & walk 15 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "24": {
+      "dayNumber": 24,
+      "physicalGoal": "Jog 3 km",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "25": {
+      "dayNumber": 25,
+      "physicalGoal": "Walk 60 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "26": {
+      "dayNumber": 26,
+      "physicalGoal": "Yoga recovery",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    },
+    "27": {
+      "dayNumber": 27,
+      "physicalGoal": "Jog + pushups",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "9 hrs"
+    },
+    "28": {
+      "dayNumber": 28,
+      "physicalGoal": "Hill walk 15 min",
+      "mealGoal": "\u2264 1450 kcal",
+      "sleepGoal": "7\u20139 hrs"
+    },
+    "29": {
+      "dayNumber": 29,
+      "physicalGoal": "Workout 20 min",
+      "mealGoal": "\u2264 1400 kcal",
+      "sleepGoal": "8 hrs"
+    },
+    "30": {
+      "dayNumber": 30,
+      "physicalGoal": "Walk 30 min (burn ~150 kcal)",
+      "mealGoal": "\u2264 1500 kcal",
+      "sleepGoal": "7.5\u20139 hrs"
+    }
+  }
+}

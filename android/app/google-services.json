@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646482249722",
+    "project_id": "habitfitapp",
+    "storage_bucket": "habitfitapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646482249722:android:03edeef713916428bf0643",
+        "android_client_info": {
+          "package_name": "com.example.habitfit_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uIGODkCKHL-OJK-pKym43R44pKfiGus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
