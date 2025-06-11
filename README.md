@@ -34,9 +34,10 @@
 
 ---
 
-## 🧪 Getting Started
+## 📬 Contact
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/k1mzem/habitfit_new.git
-   cd habitfit_new
+Developed by [Muhammad Hakim Bin Azman](mailto:hakimazman887@gmail.com)  
+Open to opportunities in **Mobile App Development** & **UI/UX Design**
+
+
+
