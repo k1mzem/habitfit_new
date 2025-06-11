@@ -1,16 +1,42 @@
-# habitfit_new
+# HabitFit
 
-A new Flutter project.
+**HabitFit** is a Flutter-powered mobile app designed to help users build and sustain healthy lifestyle habits. It combines workout tracking, meal planning, and sleep monitoring into one seamless experience.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange) ![Cross-Platform](https://img.shields.io/badge/Cross--Platform-Mobile-brightgreen)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🏃 **Physical Activity Tracking**  
+  Log running, cycling, or custom workouts with calorie calculation and GPS support.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🍽️ **Meal Planner**  
+  Add meals from a predefined list or custom entry. View calorie and nutrition breakdown.
+
+- 😴 **Sleep Tracker**  
+  Log sleep duration, visualize trends, and improve rest consistency.
+
+- 📊 **Progress Dashboard**  
+  Weekly charts, streaks, and a GitHub-style contribution grid to gamify habit streaks.
+
+- 🔔 **Reminders & Notifications**  
+  Smart reminders for activity, meals, and sleep goals.
+
+---
+
+## 📱 Tech Stack
+
+- **Flutter** – UI framework for building beautiful, natively compiled apps
+- **Firebase** – Authentication, Firestore, and Storage
+- **Syncfusion Charts** – Interactive graphs and visualizations
+- **Hive** – Lightweight local database for offline support
+
+---
+
+## 🧪 Getting Started
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/k1mzem/habitfit_new.git
+   cd habitfit_new
